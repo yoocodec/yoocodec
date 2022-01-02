@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoocodec
 - 👀 I’m interested in AI, blockchain, new skils
-- 🌱 I’m currently learning java web programing
-- 💞️ I’m looking to collaborate on web program
+- 🌱 I’m currently learning online IDE
+- 💞️ I’m looking to collaborate on online IDE
 - 📫 How to reach me yoocodec@gmail.com
 
 <!---
